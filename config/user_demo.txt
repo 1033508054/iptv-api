@@ -17,8 +17,8 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
-CCTV-4K
-CCTV-8K
+CCTV 4K
+CCTV 8K
 
 📡卫视频道,#genre#
 广东卫视
@@ -104,3 +104,6 @@ TVBS亚洲
 上海滩
 射雕英雄传
 红楼梦
+潜伏
+铁齿铜牙纪晓岚
+父母爱情
