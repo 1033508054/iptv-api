@@ -10,7 +10,6 @@ CCTV-3,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8
 CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4a
 CCTV-4,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4HD
 CCTV-4,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4K
-CCTV-4,http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5,http://php.jdshipin.com:8880/cqyx.php?id=CCTV5HD
 CCTV-5,https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
@@ -50,13 +49,16 @@ CCTV-16,http://z.b.bkpcp.top/m.php?id=cctv16
 CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17\
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
-CCTV 4K,http://home.wwang.pw:35455/gaoma/cctv4k.m3u8
+CCTV 4K,http://iptv.0564.org:35455/gaoma/cctv4k.m3u8
+CCTV 8K,http://998969.xyz:35455/gaoma/cctv8k_36m.m3u8
 CCTV 8K,http://998969.xyz:35455/gaoma/cctv8k_36m.m3u8
 CCTV 8K,http://home.wwang.pw:35455/gaoma/cctv8k_36m.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
+浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
+浙江卫视,http://php.jdshipin.com:8880/cqyx.php?id=ZHEJIANGHD
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
@@ -66,14 +68,13 @@ CCTV 8K,http://home.wwang.pw:35455/gaoma/cctv8k_36m.m3u8
 北京卫视,http://php.jdshipin.com:8880/cqyx.php?id=BEIJINGHD
 湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226477
 湖北卫视,http://php.jdshipin.com:8880/cqyx.php?id=HUBEISD
-湖北卫视,http://home.wwang.pw:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
+湖北卫视,https://www.freetv.top/migu/738906825.m3u8?migutoken=959fce041a0fecbe0bdf2b300a4d13c986661650b877856aabade568eaf9f549143a65c212325030ca99ac119635c6c4daa7c93ba8863508e6aeef100965a31ae4a8152b02337aea453f42988d
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585
 黑龙江卫视,http://php.jdshipin.com:8880/cqyx.php?id=HEILONGJIANGHD
-黑龙江卫视,http://124.116.183.146:9901/tsfile/live/0143_1.m3u8
 黑龙江卫视,https://www.yangshipin.cn/tv/home?pid=600002498
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
 安徽卫视,http://php.jdshipin.com:8880/cqyx.php?id=ANHUISD
-安徽卫视,http://home.wwang.pw:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
+安徽卫视,http://iptv.0564.org:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
 重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
 重庆卫视,http://php.jdshipin.com:8880/cqyx.php?id=CHONGQINGHD
@@ -83,7 +84,8 @@ CCTV 8K,http://home.wwang.pw:35455/gaoma/cctv8k_36m.m3u8
 东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
 东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226341
 东南卫视,http://php.jdshipin.com:8880/cqyx.php?id=DONGNANHD
-甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
+甘肃卫视,http://z.b.bkpcp.top/m.php?id=gsws
+甘肃卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225633
 广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
 广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
 贵州卫视,http://z.b.bkpcp.top/m.php?id=gzws
@@ -94,14 +96,14 @@ CCTV 8K,http://home.wwang.pw:35455/gaoma/cctv8k_36m.m3u8
 海南卫视,http://php.jdshipin.com:8880/cqyx.php?id=HAINANSD
 河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226406
 河北卫视,http://php.jdshipin.com:8880/cqyx.php?id=HEBEISD
-河北卫视,https://www.yangshipin.cn/tv/home?pid=600002493
+河北卫视,http://hls.hsrtv.cn/live/hbws.m3u8
 河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
 吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
 吉林卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226397
 吉林卫视,http://php.jdshipin.com:8880/cqyx.php?id=JILINHD
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
 江苏卫视,http://php.jdshipin.com:8880/cqyx.php?id=JIANGSUHD
-江苏卫视,http://113.140.86.162:8009/hls/33/index.m3u8
+江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=89adf8885d4f1f9dee34a4e8d60f187e5b071ac9b79001260a0b66da9027070e0b861510da93cb5190da002ca87645e63e57bada2c65f959e8ef81f693c239f194d683ba2083252bbb0caeab96
 江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344
 江西卫视,http://php.jdshipin.com:8880/cqyx.php?id=JIANGXIHD
 江西卫视,http://php.jdshipin.com:8880/jxtv2.php?id=1
@@ -121,21 +123,30 @@ CCTV 8K,http://home.wwang.pw:35455/gaoma/cctv8k_36m.m3u8
 山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456
 山东卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHANDONGHD
 山西卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHANXISD
-山西卫视,http://175.31.21.146:4480/hls/23/index.m3u8
-陕西卫视,http://124.116.183.146:9901/tsfile/live/0136_1.m3u8
-陕西卫视,http://gxlive.snrtv.com/sxws-SD.m3u8
-陕西卫视,http://175.31.21.146:4480/hls/46/index.m3u8
+山西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2371&tk=23a9aca1f79f
+山西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3728&tk=23a9aca1f79f
+陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=2811d59f756bd877ff82baab357029babfd42a225de3fc15373dd44a1eebc8fbe99b4cb84744baa6a1a884e6234a5608467ca1188361e65f980ee6900e1e4d76728f01cb0b40114546b51af18f
+陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=7a2ceb1f61adc2c6d6dd1c53cd296e5f6a0051a6d1feeca78950e85d307caa9edd71e4c150c3c44b3f5465612befd2294c38f49ce94c3a42b166683c48422cfecb24f5888d679c6511ca220f9e
+陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=793510585612abf02280cb9e867718e1ffc1b2726bc7b7acf484b6920cda841f1a80ac5947c612dfdd9c2fca36fc223c12bc6866708b30f66c4d2a2fe3164ae493381d8a6579b0707f413bc819
+陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3899cd1daaa04f812c6d4b13126e3c00ad177635abc5559f1b596e814ff8eb3d745e7bd40b881206a2852a5ed041ca424112cf1d9b385c72ea9de42c8d86f45227af0f51a8b4f4c18a038a8e6d
+陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=79aa328d259730c69550d444c628a5ca440ea707bc0d50d47fee796a3c6976b06c8f90ab53b8059b3098b41c4471f2c8dd889fdcb6575e9e96ae871f060ecbe16267b37a5a16fa4d84812713af
+陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=1aef50c89c9468d94677a906c3332de851f93ccdc0dab306ff82f6cf8dc0185feb0e0bd07a3fe73460155d5559750dd6fbd183dbf1005cf1c795d2257e6e73dfa1833fa9dcd8b3ce51f46b94ac
+陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=1def8fc5a795051b6066c0acee3c9f7979e83db98566f531e84c3215698393c2ddfa1bd9dc18c26d1b9a3dcdbe9db0e27584cd02a931aea3a44523d5fb6a41c3607487fda0cb774e7ed5ada35f
+陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=09026016da7aaebfe2b5209620fc769e607da89e9872bcd4ce9a1aa613405ea811b20cce8e1b873dca65260651de86493b78c99585316805a4c193ef7565454d0b61da13cfee7568a580cd052a
+陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3d2992ea78cf0d16e27303f2161b886b2f53f2772c9048d2cf024f810a7a6007aa15c432ba27023ed9ebdf2d93f5d4510ba233d9e8a9a429cc12bc2fb6a40c03bfa415dc27c8f998eec1905302
+陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=ac84c97dd81618cf2a8e4a9d33f1d29961c35a2c55c03702427fbd5a28ba1a3e5436de3a0e7c53e40b4d8c68cfd0827a614fc40283c8d0e64a79e05eeeb3398317650d6eefe46b9c1f9e679c61
 四川卫视,http://z.b.bkpcp.top/m.php?id=scws
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 四川卫视,http://php.jdshipin.com:8880/cqyx.php?id=SICHUANHD
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
 深圳卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHENZHENHD
-深圳卫视,http://home.wwang.pw:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 三沙卫视,http://php.jdshipin.com:8880/cqyx.php?id=SANSHASD
-三沙卫视,https://livessws.hnntv.cn/live/ssws20250114.m3u8?_upt=59ccdc261738935307
+三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0161&tk=f6cc1e0a0e1a
+三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8133&tk=b53028476470
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 天津卫视,http://php.jdshipin.com:8880/cqyx.php?id=TIANJINHD
-天津卫视,http://113.140.86.162:8009/hls/44/index.m3u8
+天津卫视,http://iptv.0564.org:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
 西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
@@ -147,18 +158,33 @@ CCTV 8K,http://home.wwang.pw:35455/gaoma/cctv8k_36m.m3u8
 云南卫视,http://php.jdshipin.com:8880/cqyx.php?id=YUNNANSD
 
 ☘️上海频道,#genre#
+七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0866&tk=e640d0a1bf70
+七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3074&tk=b53028476470
+七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9763&tk=e503191f8e20
+七彩戏剧,http://36.105.100.208:35455/itv/5000000011000031116.m3u8?cdn=bestzb
 七彩戏剧,http://139.196.151.191:2051/rtp/239.45.3.61:5140
+上海外语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2446&tk=e640d0a1bf70
+上海外语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1734&tk=b53028476470
+上海外语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6608&tk=e503191f8e20
 上海外语,http://139.196.151.191:2051/rtp/239.45.1.127:5140
 上海第一财经,http://36.105.100.208:35455/itv/5000000010000027146.m3u8?cdn=bestzb
+上海纪实,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5196&tk=23a9aca1f79f
+上海纪实,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1473&tk=23a9aca1f79f
+上海纪实,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0297&tk=23a9aca1f79f
+上海纪实,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5706&tk=23a9aca1f79f
+上海纪实,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5728&tk=23a9aca1f79f
 上海纪实,http://139.129.231.228:3529/rtp/239.21.1.171:5002
 上海纪实,http://139.129.231.228:50060/rtp/239.21.1.171:5002
+上海都市,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3713&tk=bd38c03a3ce1
+上海都市,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8348&tk=bd38c03a3ce1
 东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 东方财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010003
 新闻综合,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
 欢笑剧场,http://36.105.100.208:35455/itv/5000000002000009455.m3u8?cdn=bestzb
 法治天地,http://36.105.100.208:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
-生活时尚,http://139.196.151.191:2051/rtp/239.45.3.132:5140
 生活时尚,http://36.105.100.208:35455/itv/5000000002000019634.m3u8?cdn=bestzb
+生活时尚,http://120.55.49.231:3095/rtp/233.50.201.187:5140
+生活时尚,http://139.196.151.191:2051/rtp/239.45.3.132:5140
 第一财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
 纪实人文,http://36.105.100.208:35455/itv/5000000004000010282.m3u8?cdn=bestzb
 都市剧场,http://36.105.100.208:35455/itv/5000000011000031111.m3u8?cdn=bestzb
@@ -184,14 +210,34 @@ CCTV 8K,http://home.wwang.pw:35455/gaoma/cctv8k_36m.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7158332927312639
-TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 
 🏛经典剧场,#genre#
+鹿鼎记,https://lunbo.freetv.top/yy/1354658049
+鹿鼎记,https://lunbo.freetv.top/yy/28265277
 鹿鼎记,http://wab201.win:35455/yy/28265277
+三国演义,https://lunbo.freetv.top/yy/1354930932
 三国演义,https://live.metshop.top/yy/1354936241
+红楼梦,https://lunbo.freetv.top/yy/1382745084
 红楼梦,https://live.metshop.top/yy/1382745084
 神探狄仁杰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351755386
 
 🕘️更新时间,#genre#
-2025-02-21 18:19:42,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-02-22 06:19:27,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
